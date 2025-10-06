@@ -34,6 +34,7 @@ yarn-error.log*
 # Testing
 coverage/
 
-# Agent OS (allow product documentation to be tracked)
+# Agent OS (allow product documentation and specs to be tracked)
 .agent-os/*
 !.agent-os/product/
+!.agent-os/specs/
