@@ -16,14 +16,14 @@ These are the tasks to be completed for the spec detailed in @.agent-os/specs/20
   - [x] 1.6 Create placeholder files: bookmark-capture.tsx, safari.ts, notion-client.ts, types.ts
   - [x] 1.7 Verify build succeeds with `npm run build`
 
-- [ ] 2. Safari Integration
-  - [ ] 2.1 Write tests for Safari URL and title capture (safari.test.ts)
-  - [ ] 2.2 Implement getCurrentSafariURL() using AppleScript/JXA
-  - [ ] 2.3 Implement getCurrentSafariTitle() using AppleScript/JXA
-  - [ ] 2.4 Implement getSafariPageData() to return combined URL and title
-  - [ ] 2.5 Add error handling for Safari not running
-  - [ ] 2.6 Add error handling for no active Safari window
-  - [ ] 2.7 Verify all Safari integration tests pass
+- [x] 2. Safari Integration
+  - [x] 2.1 Write tests for Safari URL and title capture (safari.test.ts)
+  - [x] 2.2 Implement getCurrentSafariURL() using AppleScript/JXA
+  - [x] 2.3 Implement getCurrentSafariTitle() using AppleScript/JXA
+  - [x] 2.4 Implement getSafariPageData() to return combined URL and title
+  - [x] 2.5 Add error handling for Safari not running
+  - [x] 2.6 Add error handling for no active Safari window
+  - [x] 2.7 Verify all Safari integration tests pass
 
 - [ ] 3. Notion MCP Client Integration
   - [ ] 3.1 Write tests for MCP client functions (notion-client.test.ts)
