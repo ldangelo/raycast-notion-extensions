@@ -25,15 +25,15 @@ These are the tasks to be completed for the spec detailed in @.agent-os/specs/20
   - [x] 2.6 Add error handling for no active Safari window
   - [x] 2.7 Verify all Safari integration tests pass
 
-- [ ] 3. Notion MCP Client Integration
-  - [ ] 3.1 Write tests for MCP client functions (notion-client.test.ts)
-  - [ ] 3.2 Research and select MCP client library (or implement minimal client)
-  - [ ] 3.3 Implement connectToMCPServer() function
-  - [ ] 3.4 Implement findBookmarksDatabase() to search for database by name
-  - [ ] 3.5 Implement createBookmark() to create database page with properties
-  - [ ] 3.6 Add error handling for MCP server unavailable
-  - [ ] 3.7 Add error handling for database not found
-  - [ ] 3.8 Verify all MCP client tests pass
+- [x] 3. Notion MCP Client Integration
+  - [x] 3.1 Write tests for MCP client functions (notion-client.test.ts)
+  - [x] 3.2 Research and select MCP client library (or implement minimal client)
+  - [x] 3.3 Implement connectToMCPServer() function
+  - [x] 3.4 Implement findBookmarksDatabase() to search for database by name
+  - [x] 3.5 Implement createBookmark() to create database page with properties
+  - [x] 3.6 Add error handling for MCP server unavailable
+  - [x] 3.7 Add error handling for database not found
+  - [x] 3.8 Verify all MCP client tests pass
 
 - [ ] 4. Bookmark Capture Command UI
   - [ ] 4.1 Write integration tests for bookmark capture workflow
