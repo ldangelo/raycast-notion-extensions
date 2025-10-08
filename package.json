@@ -2,7 +2,7 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "notion-bookmark-capture",
   "title": "Notion Bookmark Capture",
-  "description": "Capture Safari bookmarks to Notion Bookmarks database",
+  "description": "Quickly capture Safari bookmarks to your Notion Bookmarks database with automatic URL and title detection",
   "icon": "command-icon.png",
   "author": "ldangelo",
   "categories": [
@@ -10,12 +10,30 @@
     "Web"
   ],
   "license": "MIT",
+  "keywords": [
+    "notion",
+    "bookmarks",
+    "safari",
+    "mcp",
+    "productivity",
+    "capture",
+    "web clipper"
+  ],
   "commands": [
     {
       "name": "bookmark-capture",
-      "title": "Capture Bookmark",
-      "description": "Save current Safari page to Notion Bookmarks",
-      "mode": "view"
+      "title": "Capture Bookmark to Notion",
+      "subtitle": "Bookmarks",
+      "description": "Save current Safari page to Notion Bookmarks database with URL, title, and tags",
+      "mode": "view",
+      "keywords": [
+        "bookmark",
+        "save",
+        "notion",
+        "safari",
+        "web",
+        "clip"
+      ]
     }
   ],
   "dependencies": {

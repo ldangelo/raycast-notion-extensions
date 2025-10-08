@@ -49,13 +49,13 @@ These are the tasks to be completed for the spec detailed in @.agent-os/specs/20
   - [x] 4.11 Verify all integration tests pass
 
 - [ ] 5. End-to-End Testing & Polish
-  - [ ] 5.1 Install extension in Raycast locally with `npm run dev`
-  - [ ] 5.2 Test happy path: Safari running, MCP connected, database exists
-  - [ ] 5.3 Test error case: Safari not running
-  - [ ] 5.4 Test error case: MCP server offline
-  - [ ] 5.5 Test error case: Bookmarks database not found
-  - [ ] 5.6 Test edge cases: special characters in title, very long URLs, multiple tags
-  - [ ] 5.7 Verify bookmark appears in Notion Bookmarks database with correct fields
-  - [ ] 5.8 Run full test suite with `npm test` and ensure all tests pass
-  - [ ] 5.9 Update package.json with command metadata (title, icon, description)
-  - [ ] 5.10 Create README.md with setup instructions
+  - [ ] 5.1 Install extension in Raycast locally with `npm run dev` (Manual - User)
+  - [ ] 5.2 Test happy path: Safari running, MCP connected, database exists (Manual - User)
+  - [ ] 5.3 Test error case: Safari not running (Manual - User)
+  - [ ] 5.4 Test error case: MCP server offline (Manual - User)
+  - [ ] 5.5 Test error case: Bookmarks database not found (Manual - User)
+  - [ ] 5.6 Test edge cases: special characters in title, very long URLs, multiple tags (Manual - User)
+  - [ ] 5.7 Verify bookmark appears in Notion Bookmarks database with correct fields (Manual - User)
+  - [x] 5.8 Run full test suite with `npm test` and ensure all tests pass
+  - [x] 5.9 Update package.json with command metadata (title, icon, description)
+  - [x] 5.10 Create README.md with setup instructions
