@@ -35,18 +35,18 @@ These are the tasks to be completed for the spec detailed in @.agent-os/specs/20
   - [x] 3.7 Add error handling for database not found
   - [x] 3.8 Verify all MCP client tests pass
 
-- [ ] 4. Bookmark Capture Command UI
-  - [ ] 4.1 Write integration tests for bookmark capture workflow
-  - [ ] 4.2 Create bookmark-capture.tsx with basic Raycast Form component
-  - [ ] 4.3 Add form fields: URL (text), Title (text), Date/Time (date), Tags (text)
-  - [ ] 4.4 Pre-fill URL and Title fields with Safari data on component mount
-  - [ ] 4.5 Pre-fill Date/Time field with current timestamp
-  - [ ] 4.6 Implement form validation (required title, valid URL format)
-  - [ ] 4.7 Add form submission handler that calls createBookmark()
-  - [ ] 4.8 Add loading state during MCP operation
-  - [ ] 4.9 Add success toast notification on successful save
-  - [ ] 4.10 Add error toast notifications for all error cases
-  - [ ] 4.11 Verify all integration tests pass
+- [x] 4. Bookmark Capture Command UI
+  - [x] 4.1 Write integration tests for bookmark capture workflow
+  - [x] 4.2 Create bookmark-capture.tsx with basic Raycast Form component
+  - [x] 4.3 Add form fields: URL (text), Title (text), Date/Time (date), Tags (text)
+  - [x] 4.4 Pre-fill URL and Title fields with Safari data on component mount
+  - [x] 4.5 Pre-fill Date/Time field with current timestamp
+  - [x] 4.6 Implement form validation (required title, valid URL format)
+  - [x] 4.7 Add form submission handler that calls createBookmark()
+  - [x] 4.8 Add loading state during MCP operation
+  - [x] 4.9 Add success toast notification on successful save
+  - [x] 4.10 Add error toast notifications for all error cases
+  - [x] 4.11 Verify all integration tests pass
 
 - [ ] 5. End-to-End Testing & Polish
   - [ ] 5.1 Install extension in Raycast locally with `npm run dev`
